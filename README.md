@@ -21,7 +21,7 @@ Create the `HistoricalEvent` class and extend `RevisedHistoricalEvent` from it, 
 ![UML diagrams of classes described below](https://i.imgur.com/yw1q5W0.png) 
 
 Remember that `...` in the UML diagram represents _all_ of the required methods (constructors, setters, getters, `toString`, `equals`). You should add instance variables for a revised description and citation, as well as a `teach` method that will print out the information as the second screenshot above. You can test with the provided `main` method, and will add your own `RevisedHistoricalEvent`.
-
+Sample output of what `teach()` method does:
 ```
 ====================================================
 HISTORICAL EVENT EXAMPLE:
